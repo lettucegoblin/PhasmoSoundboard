@@ -1,0 +1,77 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="welsh_english_geraint_data" version="1.3.0" audacityversion="2.4.2" sel0="55.1853162160" sel1="56.1229872859" vpos="0" h="53.1750238975" zoom="429.7882412626" rate="22050.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="Software" value="Lavf58.45.100"/>
+	</tags>
+	<wavetrack name="" isSelected="1" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="22050" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1237871">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f9b.au" len="261615" min="-0.368052" max="0.37583" rms="0.065747"/>
+				</waveblock>
+				<waveblock start="261615">
+					<simpleblockfile filename="e08083d0.au" len="262144" min="-0.390543" max="0.384043" rms="0.064634"/>
+				</waveblock>
+				<waveblock start="523759">
+					<simpleblockfile filename="e080851e.au" len="262144" min="-0.375309" max="0.4161" rms="0.05611"/>
+				</waveblock>
+				<waveblock start="785903">
+					<simpleblockfile filename="e0808332.au" len="262144" min="-0.299272" max="0.394351" rms="0.0515"/>
+				</waveblock>
+				<waveblock start="1048047">
+					<simpleblockfile filename="e08086bb.au" len="189824" min="-0.334836" max="0.386934" rms="0.056307"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="Label Track" isSelected="1" height="73" minimized="0" numlabels="46">
+		<label t="0.0279207266" t1="0.8492554355" title="areyoufriendly"/>
+		<label t="1.2494525174" t1="2.0952178621" title="showyourself"/>
+		<label t="2.5512563973" t1="3.4493731044" title="giveusasign"/>
+		<label t="3.8507335499" t1="4.9093944353" title="doyouwantustoleave"/>
+		<label t="5.2909776994" t1="6.4427076736" title="isthereaghosthere"/>
+		<label t="7.0755774776" t1="7.9271596403" title="whereisyourroom"/>
+		<label t="8.3529507216" t1="9.1510181583" title="whodidyoumurder"/>
+		<label t="9.5837894213" t1="10.4702724923" title="whendidyoudie"/>
+		<label t="10.8821032103" t1="12.0477935478" title="howmanypeopleareinhere"/>
+		<label t="12.4526440842" t1="13.8579873253" title="howlongagodidyoudie"/>
+		<label t="14.5094709471" t1="15.3052116565" title="canyouspeak"/>
+		<label t="15.6798147390" t1="16.4476347218" title="whereareyou"/>
+		<label t="16.8385248948" t1="17.8599581446" title="howoldareyou"/>
+		<label t="18.2624819538" t1="19.3816377468" title="whatisyourgender"/>
+		<label t="19.7888150104" t1="20.4938133582" title="openthedoor"/>
+		<label t="20.9358915301" t1="21.8549487822" title="throwsomething"/>
+		<label t="22.5483134939" t1="23.2346980240" title="imscared"/>
+		<label t="23.6232614698" t1="24.5004376319" title="imnotscared"/>
+		<label t="24.8936545322" t1="25.5079105184" title="spooky"/>
+		<label t="25.9267214181" t1="26.8085510347" title="bloodymary"/>
+		<label t="27.5042424736" t1="27.8672119200" title="hello"/>
+		<label t="28.2371615481" t1="28.7653286271" title="goodbye"/>
+		<label t="29.2213671624" t1="29.7867618769" title="followme"/>
+		<label t="30.1753253228" t1="31.4503718396" title="ifoundtheghostroom"/>
+		<label t="31.8622025576" t1="32.8603685352" title="weshouldsplitup"/>
+		<label t="33.2349716177" t1="34.4820974079" title="weshouldsticktogether"/>
+		<label t="35.1196206663" t1="35.5523919294" title="yes"/>
+		<label t="35.9293217391" t1="36.3295188210" title="no"/>
+		<label t="36.9367946256" t1="37.9326338759" title="poltergeist"/>
+		<label t="38.3421378668" t1="38.8586713097" title="banshee"/>
+		<label t="39.2449080283" t1="39.6427783830" title="jinn"/>
+		<label t="40.0499556466" t1="40.5129743635" title="spirit"/>
+		<label t="40.9573792626" t1="41.3017348912" title="wraith"/>
+		<label t="41.7158923365" t1="42.3371285044" title="phantom"/>
+		<label t="42.7256919502" t1="43.2794530287" title="mare"/>
+		<label t="43.6726699289" t1="44.2985595513" title="revenant"/>
+		<label t="44.6801428154" t1="45.1175675329" title="shade"/>
+		<label t="45.5084577059" t1="45.9365755145" title="demon"/>
+		<label t="46.3088518698" t1="46.7532567689" title="yurei"/>
+		<label t="47.1441469419" t1="47.5606311144" title="oni"/>
+		<label t="48.1865207367" t1="49.5476561607" title="emf level 5"/>
+		<label t="49.9106256071" t1="50.8599303131" title="spiritbox"/>
+		<label t="51.2601273950" t1="52.1070561033" title="ghostwriting"/>
+		<label t="52.5119066396" t1="53.1401229892" title="ghostorb"/>
+		<label t="53.5147260717" t1="54.8083864063" title="freezingtemperatures"/>
+		<label t="55.1853162160" t1="56.1229872859" title="fingerprints"/>
+	</labeltrack>
+</project>

@@ -1,0 +1,59 @@
+    General Ghost Questions
+Are you friendly? 
+Show yourself. 
+Give us a sign. 
+Do you want us to leave? 
+Is there a Ghost here? 
+
+    Ouija Board Questions
+Where is your room? 
+Who did you murder? 
+When did you die? 
+How many people are in here? 
+How long ago did you die? 
+
+    Spirit Box Questions
+Can you speak? 
+Where are you? 
+How old are you? 
+What is your gender? 
+Open the door. 
+Throw something. 
+
+  Things You Can Say to Also Trigger a Ghost
+I'm scared. 
+I'm not scared. 
+Spooky. 
+Bloody Mary. 
+
+  Communicate With Team
+Hello. 
+Goodbye. 
+Follow me.
+I found the ghost room.
+We should split up.
+We should stick together.
+Yes. 
+No. 
+
+	Ghost types
+Poltergeist. 
+Banshee. 
+Jinn. 
+Spirit. 
+Wraith. 
+Phantom. 
+Mare. 
+Revenant. 
+Shade. 
+Demon. 
+Yurei. 
+Oni. 
+
+	Ghost Evidence
+EMF Level 5. 
+Spirit Box. 
+Ghost Writing. 
+Ghost Orb. 
+Freezing temperatures. 
+Fingerprints. 

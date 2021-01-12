@@ -1,0 +1,106 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="theodora_english_data" version="1.3.0" audacityversion="2.4.2" sel0="55.4086167800" sel1="56.5725170068" vpos="0" h="0.0000000000" zoom="172.2656250000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="Audio Track" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2572827">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808825.au" len="262144" min="-0.909893" max="1.000942" rms="0.131898"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e08084c6.au" len="262144" min="-0.709858" max="0.954008" rms="0.122105"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808318.au" len="262144" min="-1.004032" max="1.007507" rms="0.208103"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e08083fe.au" len="262144" min="-0.919128" max="0.969164" rms="0.143639"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0808c58.au" len="262144" min="-0.953525" max="0.99849" rms="0.135361"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e0808e4a.au" len="262144" min="-1.019461" max="1.000662" rms="0.151232"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0808b02.au" len="262144" min="-0.99111" max="1.000739" rms="0.132882"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e0808a82.au" len="262144" min="-0.817534" max="0.999858" rms="0.12732"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0808b0a.au" len="262144" min="-1.011425" max="1.005551" rms="0.133193"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e0808769.au" len="213531" min="-0.909903" max="0.996499" rms="0.104192"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2572827">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808953.au" len="262144" min="-0.909892" max="1.000941" rms="0.131898"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e080820b.au" len="262144" min="-0.709889" max="0.954011" rms="0.122105"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808669.au" len="262144" min="-1.004032" max="1.007508" rms="0.208103"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e080880a.au" len="262144" min="-0.919163" max="0.969135" rms="0.143639"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e080800b.au" len="262144" min="-0.953496" max="0.998562" rms="0.135361"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e0808e19.au" len="262144" min="-1.019462" max="1.000662" rms="0.151233"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0808381.au" len="262144" min="-0.99111" max="1.000739" rms="0.132883"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e0808746.au" len="262144" min="-0.817503" max="0.999858" rms="0.127312"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0808ff9.au" len="262144" min="-1.011423" max="1.005551" rms="0.133193"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e0808ddc.au" len="213531" min="-0.909872" max="0.996501" rms="0.104192"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="Label Track" isSelected="1" height="73" minimized="0" numlabels="25">
+		<label t="0.7488435374" t1="1.7937414966" title="areyoufriendly "/>
+		<label t="3.0418140590" t1="4.0809070295" title="showyourself"/>
+		<label t="5.0619501134" t1="6.1765079365" title="giveusasign"/>
+		<label t="7.1459410431" t1="8.6029931973" title="doyouwantustoleave"/>
+		<label t="9.4331065760" t1="10.9830385488" title="isthereaghosthere"/>
+		<label t="12.0975963719" t1="13.4965986395" title="whereisyourroom"/>
+		<label t="14.2338321995" t1="15.7547392290" title="whodidyoumurder"/>
+		<label t="16.7473922902" t1="17.9490249433" title="whendidyoudie"/>
+		<label t="18.9126530612" t1="20.6541496599" title="howmanypeopleareinhere"/>
+		<label t="21.4320181406" t1="23.1444897959" title="howlongagodidyoudie"/>
+		<label t="23.9804081633" t1="25.0253061224" title="canyouspeak"/>
+		<label t="25.9715192744" t1="26.8712925170" title="whereareyou"/>
+		<label t="27.7884807256" t1="29.0075283447" title="howoldareyou"/>
+		<label t="30.1801360544" t1="31.3004988662" title="whatisyourgender"/>
+		<label t="32.3918367347" t1="33.4947845805" title="openthedoor"/>
+		<label t="34.3811337868" t1="35.3171882086" title="throwsomething"/>
+		<label t="36.7103854875" t1="37.6072562358" title="imscared"/>
+		<label t="38.5509297052" t1="39.7235374150" title="imnotscared"/>
+		<label t="40.7539229025" t1="41.5375963719" title="spooky"/>
+		<label t="44.7390476190" t1="45.4066213152" title="hello"/>
+		<label t="47.2032653061" t1="47.8011791383" title="goodbye"/>
+		<label t="49.0376417234" t1="49.7052154195" title="followme"/>
+		<label t="51.0577777778" t1="52.3174603175" title="ifoundtheghostroom"/>
+		<label t="53.5481179138" t1="54.4827210884" title="weshouldsplitup"/>
+		<label t="55.4086167800" t1="56.5725170068" title="weshouldsticktogether"/>
+	</labeltrack>
+</project>
