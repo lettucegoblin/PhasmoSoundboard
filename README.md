@@ -3,15 +3,17 @@
 > 👻 Mute people deserve spooks too 👻
 
 ## 
-- [Phasmophobia Software Setup](#phasmophobia-software-setup)
+- [Necessary Software Setup](#phasmophobia-software-setup)
     - [1. Download necessary software](#download-necessary-software)
     - [2. Install both](#install-both)
     - [3. Settings for Soundboard](#settings-for-soundboard)
     - [4. Set virtual mic as default mic](#set-virtual-mic-as-default-mic)
     - [5. Set your mic to cable output ingame](#set-your-mic-to-cable-output-ingame)
 - [Voice Pack Downloads](#voice-pack-downloads)
-    - [Theodora(Female EN)](#theodorafemale-en-download-zip)
-    - [Geraint(Male EN)](#geraintmale-en-download-zip)
+    - [Real Voices](#real-voices)
+        - [Theodora(Female EN)](#theodorafemale-en-download-zip)
+    - [Text to Speech Voices](#text-to-speech-voices)
+        - [Geraint(Male EN)](#geraintmale-en-download-zip)
 - [Setup Voice Pack](#setup-voice-pack)
     - [Extract the zip file](#extract-the-zip-file)
     - [Click add at the bottom left of the soundboard software](#click-add-at-the-bottom-left-of-the-soundboard-software)
@@ -42,8 +44,10 @@
 ##
 ## Voice Pack Downloads
 > choose a 🎤 voice pack 🎤 below 
-- #### Theodora(Female EN) [Download zip](https://github.com/lettucegoblin/PhasmoSoundboard/files/5806612/theodora_english.zip)
-- #### Geraint(Male EN) [Download zip](https://github.com/lettucegoblin/PhasmoSoundboard/files/5806616/welsh_english_geraint.zip)
+- #### Real Voices
+    - #### Theodora(Female EN) [Download zip](https://github.com/lettucegoblin/PhasmoSoundboard/files/5806612/theodora_english.zip)
+- #### Text to Speech Voices
+    - #### Geraint(Male EN) [Download zip](https://github.com/lettucegoblin/PhasmoSoundboard/files/5806616/welsh_english_geraint.zip)
 ##
 ## Setup Voice Pack
 1. #### Extract the zip file
