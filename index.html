@@ -22,6 +22,38 @@
     a {
         color: #b4d3f2;
     }
+    @keyframes mymove {
+    from {
+        background-position: 0% 0,100% 0
+    }
+
+    to {
+        background-position: 100% 0,0% 0
+    }
+}
+
+#phasmo-soundboard:after {
+    position: absolute;
+    background: url(guide_media/cuteghost1.png),url(guide_media/cuteghost2.png);
+    background-repeat: no-repeat,no-repeat!important;
+    background-position: 0px 0,170px 0px;
+    width: 350%!important;
+    height: 50px;
+    animation: mymove 5s infinite;
+    animation-direction: linear;
+    animation-delay: 0s;
+    -webkit-animation: mymove 5s infinite;
+    -webkit-animation-direction: linear;
+    -webkit-animation-delay: 0s;
+    left: 150%!important;
+    top: -30px;
+    color: #1C8B9C;
+    font-weight: bold;
+    z-index: 999;
+    font-size: .95em;
+    text-align: center;
+    content: " "!important;
+}
 </style>
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/greghub/green-audio-player/dist/css/green-audio-player.min.css">
 <script src="https://cdn.jsdelivr.net/gh/greghub/green-audio-player/dist/js/green-audio-player.min.js"></script>
