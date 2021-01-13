@@ -35,24 +35,30 @@
 #phasmo-soundboard:after {
     position: absolute;
     background: url(guide_media/cuteghost1.png),url(guide_media/cuteghost2.png);
+    background-size: 64px 64px;
     background-repeat: no-repeat,no-repeat!important;
     background-position: 0px 0,170px 0px;
-    width: 350%!important;
+    width: 60%;
     height: 50px;
     animation: mymove 5s infinite;
-    animation-direction: linear;
     animation-delay: 0s;
     -webkit-animation: mymove 5s infinite;
-    -webkit-animation-direction: linear;
     -webkit-animation-delay: 0s;
-    left: 150%!important;
-    top: -30px;
+    left: 20%;
+    top: 15px;
     color: #1C8B9C;
     font-weight: bold;
     z-index: 999;
     font-size: .95em;
     text-align: center;
     content: " "!important;
+}
+audio{
+    padding: 4px 50px;
+}
+#voicepackpreview{
+    display: flex;
+    flex-direction: column;
 }
 </style>
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/greghub/green-audio-player/dist/css/green-audio-player.min.css">
@@ -66,7 +72,7 @@
     <blockquote>
     <p>👻 Mute people deserve spooks too 👻</p>
     </blockquote>
-    <div>
+    <div id='voicepackpreview'>
         Theodora Voice Pack Preview:
         <audio controls="">
             <source src="real_voice/theodora_english/General Ghost Questions/giveusasign.wav" type="audio/wav">
