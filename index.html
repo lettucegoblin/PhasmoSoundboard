@@ -108,11 +108,15 @@ h2 {
     
     <div id='voicepackpreview'>
         Theodora Voice Pack Preview:
-        <audio controls="">
+        <audio id='theodora' controls="">
             <source src="real_voice/theodora_english/General Ghost Questions/giveusasign.wav" type="audio/wav">
             
           Your browser does not support the audio element.
         </audio>
+        <script>
+            var vid = document.getElementById("theodora");
+            vid.volume = 0.5;
+        </script>
         Geraint Voice Pack Preview:
         <audio controls="">
             <source src="text_to_speech_voice/welsh_english_geraint/General Ghost Questions/giveusasign.wav" type="audio/wav">
